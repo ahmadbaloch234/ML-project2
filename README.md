@@ -1,1 +1,1 @@
-# ML-project2
+print('Hello world')
